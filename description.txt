@@ -1,5 +1,5 @@
 #This is freestyle study notebook of Sungsik Kong
-#The content may not be well organized, but it would be helpful for those who need it.
+#Contents may not be well organized, but it would be helpful for those who need it.
 #Every notebook contains 1000 or more lines of python code
 
 #Various kinds of algorithms such as: Divide and Conquer, Dynmaic Programming, Greedy, Brute Force, Backtracking, Binary Search, etc
